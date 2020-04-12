@@ -1,8 +1,11 @@
 # operating system 
 
-- how can install debian 
+- how can install debian / ubuntu 
 
-## Check out the link & Docs
+## Check out the link & Docs for Ubuntu
+https://ubuntu.com/
+
+## Check out the link & Docs for Debian 
 http://www.debian.org/
 
 
