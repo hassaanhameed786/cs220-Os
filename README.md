@@ -22,11 +22,13 @@ Feel free to fork this repository and contribute by submitting pull requests wit
 ## Contact
 For any queries regarding the contents of this repository, please reach out via email.
 
----
+
 
 Remember to replace the placeholder text for the email contact with your actual email address. The structure provides a clear description of the repository and instructions on how to use and contribute to it.
 
-- how can install debian / ubuntu 
+---
+
+##  how can install debian / ubuntu 
 
 ## Check out the link & Docs for Ubuntu
 https://ubuntu.com/
